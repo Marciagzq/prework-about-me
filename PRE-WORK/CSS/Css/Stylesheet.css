@@ -1,0 +1,51 @@
+h1 {
+    text-align:center;
+    color: pink;
+    border: 3px solid pink;
+    border-radius:20px;
+    padding: 12px 5px;
+    margin: 50px;
+}
+
+p.p1 {
+    color:red;
+}
+p.p2 {
+    color: blue;
+}
+p.p3 {
+    color: green;
+}
+p.pb {
+    font-size: 30px;
+}
+p.ps {
+    font-size: 8px;
+}
+p.center {
+    text-align: center;
+}
+p.pblack {
+    font-weight: bold;
+}
+p.pf {
+    font-family: Calibri;
+}
+p.pmix {
+    color: pink;
+    font-weight: bold;
+    font-style: underline;
+    text-shadow: 1px 1px greenyellow;
+
+}
+p.styledFont {
+    color: green;
+    font-style: italic;
+    letter-spacing: 2px;
+    margin: 5px 10px;
+    text-transform: uppercase;
+}
+
+#styledImage {
+    border: 15px dotted rgb(243, 115, 185);
+}

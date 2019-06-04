@@ -1,0 +1,21 @@
+DEBUGGING by Marcia Zegarra
+
+Fun & great exercise! 
+
+Missing punctuation and quotations.
+Spacing in wrong places (hard to identify) 
+Elements missing in various occasions (wasn't expecting this)
+Wrong ref links to make javaScript work correctly.
+CSS was basically perfect and no complicated.
+The broken code it was actually very messy, no comments at all,
+it didn't have good order to be read easily.
+The name of the colors were not in the right places. I had to change it... 
+happily I realized it just before finishing the exercise.
+
+
+
+Loved the grumpy web page though!
+
+Thanks.
+
+
